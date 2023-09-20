@@ -1,4 +1,4 @@
-# Cornell Detection
+# flask-React-emotion
 A Flask+React based application that utilizes Haar Cascade model to detect faces and eyes in images received from the webcam
 
 ## Technologies Used
@@ -7,8 +7,6 @@ A Flask+React based application that utilizes Haar Cascade model to detect faces
 - Heroku for deployement
 
 ## Steps to run on a local server
-- ```git clone https://github.com/pratyush1712/face-detection.git```
-- ```cd face-detection/backend```
+- ```git clone https://github.com/appstimesete/flask-react-emotion.git```
+- ```cd flask-react-emotion```
 - ```gunicorn --bind localhost:3000 app:app```
-
-### <a href="https://cornell-detection.herokuapp.com/" target="_blank">Located Here</a>
